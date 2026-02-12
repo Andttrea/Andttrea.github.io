@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/Andttrea"
   - label: Email
-    url: "mailto:andreavg@lcg.com"
+    url: "mailto:andreavg@lcg.unam.mx"
 output:
   postcards::trestles
 ---
